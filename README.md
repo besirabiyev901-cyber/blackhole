@@ -1,64 +1,41 @@
-Unreleased Psychological Horror Demo
+# ❄️ Unreleased Psychological Horror Demo
 
-This is an unreleased demo project that I created as an experiment in psychological horror, atmosphere, and storytelling.
+> *An unreleased experimental prototype blending 1990s winter atmosphere, psychedelic visual distortion, and surreal narrative horror.*
 
-The game combines a psychedelic visual style with elements of horror, inspired by the atmosphere of the 1990s, winter landscapes, and strange, dream-like environments.
+---
 
-The project was never fully released, but it remains an important part of my creative process and experimentation with horror games.
+## 📌 Overview
 
-🎮 About the Game
+**Unreleased Psychological Horror Demo** is an atmospheric, story-driven experiment designed to explore surrealism, isolation, and environmental narrative techniques. Set during a bitter, snowy night in the 1990s, the game immerses the player in a dream-like landscape filled with shadow figures, blurred memories, and psychological dread.
 
-The game takes place during a cold and snowy night.
+---
 
-The world has a strange, almost dream-like appearance, with psychedelic visuals and mysterious human figures that resemble shadows.
+## 📞 Narrative Setup
 
-The player doesn't immediately understand what is happening. The story is gradually revealed through the environment and what the character hears.
+* **The Call:** The game opens on a freezing night with a sudden, disturbing phone call: your wife's house has been broken into, and someone is dead.
+* **The Journey:** Driven by panic, you race through snow-choked streets toward the scene of the crime without knowing the full truth.
+* **The Arrival:** You reach the house, only to realize you are far too late.
+* **The Mystery:** The lines between real events, shadow entities, and psychological trauma remain ambiguous, leaving the player to piece together the narrative through environmental cues.
 
-📞 Story
+---
 
-At the beginning of the game, we receive a phone call.
+## 🌨️ Atmosphere & Visual Style
 
-We are told that our wife's house has been broken into and that someone has been killed.
+* **1990s Winter Aesthetics:** Low-fidelity textures, freezing landscapes, and retro-inspired visual design.
+* **Psychedelic Visuals:** Surreal color shifts, distorted environments, and nightmare logic that evoke a sense of detachment.
+* **Shadow Entities:** Mysterious human silhouettes that inhabit the fringes of the environment.
+* **Isolation & Uncanny Tension:** Emphasis on ambient dread and spatial disorientation over conventional jumpscares.
 
-Without knowing exactly what happened, we immediately head there.
+---
 
-We run through the snowy night, trying to reach the house as quickly as possible.
+## 🎨 Creative Concept
 
-But when we finally arrive...
+This project represents an exploration into treating psychological horror as a *"disturbing memory or nightmare."* By pairing a serious, tragic narrative setup with unconventional visual stylings, the project aimed to break away from standard horror tropes and prioritize deep, unsettling mood design.
 
-It's already too late.
+---
 
-What happened inside the house, who the shadow-like figures are, and what is real are left deliberately unclear.
+## 🚧 Development Status
 
-🌨️ Atmosphere
+**Status:** `Unreleased Demo / Cancelled Prototype`
 
-The main focus of the project was its atmosphere.
-
-The game combines:
-
-- Snowy winter environments;
-- A 1990s-inspired atmosphere;
-- Psychedelic visuals;
-- Psychological horror elements;
-- Shadow-like human figures;
-- Dream-like environments;
-- Mystery and uncertainty;
-- A feeling of isolation.
-
-Rather than relying only on traditional jumpscares, I wanted to create an atmosphere where the player constantly feels that something is wrong.
-
-🎨 My Creative Work
-
-This project was another experiment in developing my own approach to horror.
-
-I wanted to combine unusual visuals with a serious and mysterious story, creating something that feels less like traditional horror and more like a disturbing memory or nightmare.
-
-Although the game never reached a full release, the ideas and experience from this project continue to influence my future work.
-
-🚧 Status
-
-Unreleased Demo / Cancelled Prototype
-
-The project was never officially released as a complete game.
-
-It remains a personal experiment and an early example of my exploration of psychological horror, atmosphere, storytelling, and unconventional visual styles.
+While this project was never officially completed or released, the narrative frameworks, atmospheric techniques, and environmental experiments developed here serve as key creative references for future horror titles.
